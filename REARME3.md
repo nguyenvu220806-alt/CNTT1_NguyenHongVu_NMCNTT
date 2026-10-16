@@ -5,7 +5,7 @@
 
 # PHẦN 2: SOURCE CODE `README.md`
 
-# 🚀 Wiki CLB Lập Trình PTIT
+# ❤️ Wiki CLB Lập Trình PTIT
 
 ## 1. Giới thiệu
 **CLB Lập trình PTIT** là môi trường học tập công nghệ hàng đầu.
